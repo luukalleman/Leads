@@ -1,0 +1,16 @@
+# Ignore environment variables
+.env
+.env.*
+
+# macOS system file
+.DS_Store
+
+# Node.js dependencies (if applicable)
+node_modules/
+
+# Logs
+*.log
+
+# Build or output directories (if applicable)
+build/
+dist/
